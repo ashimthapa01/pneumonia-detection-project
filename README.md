@@ -1,10 +1,8 @@
 # Pneumonia Detection using Deep Learning
 
 ## How to Run
-1. Open notebook in Google Colab
-2. Upload Chest X-Ray Pneumonia dataset from Kaggle
-3. Update dataset path
-4. Run all cells
+1. Open notebook 
+2. Run all cells
 
 Models Included:
 - Baseline classifier
